@@ -1,4 +1,4 @@
-# 🍽️ FoodFinder – Smart Restaurant Discovery App
+# 🍽️ FoodFinder – Smart Restaurant 
 
 **FoodFinder** is a responsive web application that helps users discover nearby restaurants, explore menus, and find the best food deals based on their preferences. It offers a clean, fast, and modern user interface to improve user experience.
 
