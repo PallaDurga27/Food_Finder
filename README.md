@@ -26,7 +26,7 @@ To set up FoodFinder locally, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/indugundam/Food_Finder.git
+git clone https://github.com/PallaDurga27/Food_Finder.git
 
 # Navigate to the project directory
 cd Food_Finder
