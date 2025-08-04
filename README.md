@@ -16,7 +16,7 @@
 
 ## 📹 Demo Video
 
-🎥 Watch a recorded demo of FoodFinder in action: *[Add your demo video link here]*
+🎥 Watch a recorded demo of FoodFinder in action: *[https://screenapp.io/app/#/shared/n54p89SI19]*
 
 
 ---
